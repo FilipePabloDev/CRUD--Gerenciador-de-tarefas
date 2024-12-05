@@ -1,4 +1,4 @@
-# Gerenciador de Tarefas - CRUD  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Gerenciador de Tarefas - CRUD  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/FilipePabloDev/CRUD--Gerenciador-de-tarefas?tab=License-1-ov-file)
 
 Este é um projeto simples feito na faculdade e em casa de Gerenciador de Tarefas que implementa operações CRUD (Criar, Ler, Atualizar e Deletar). O projeto foi desenvolvido usando **Bootstrap**, **PHP** e **MySQL**.
 
