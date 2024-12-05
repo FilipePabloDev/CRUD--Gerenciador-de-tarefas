@@ -40,4 +40,6 @@ Antes de executar o projeto, certifique-se de ter os seguintes requisitos instal
 
 5. Na aba "Arquivo a importar"coloque o arquivo **tasks.sql** e clique no final da página em importar.
 
-6. Abra o  localhost e teste o projeto.
+6. Coloque o projeto dentro da pasta htdocs e abra o  localhost 
+
+7. Teste o projeto.
